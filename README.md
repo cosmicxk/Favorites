@@ -1,2 +1,3 @@
 # Favorites
-this repositories collected some resources you can download ,well ,just like Baidu Cloud or others
+This repository collects some resources you can download ,well ,just like Baidu Cloud or others;
+Enjoy it!
